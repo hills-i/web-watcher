@@ -1,0 +1,5 @@
+# Ignore sensitive configuration files
+config.json
+
+# Ignore generated output files
+output/
