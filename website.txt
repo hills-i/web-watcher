@@ -1,2 +1,2 @@
-https://www.powershellgallery.com/
-https://github.com/PowerShell/PowerShell
+http://example.com/
+https://example.com/
