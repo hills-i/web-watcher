@@ -3,3 +3,14 @@ config.json
 
 # Ignore generated output files
 output/
+report-*.html
+
+# Ignore system and temporary files
+*.deb*
+*.tmp
+.DS_Store
+
+# Ignore log files
+*.log
+
+CLAUDE.md
